@@ -1,3 +1,0 @@
-Tarefa 1: Estudar para a prova de Lógica Aplicada à Computação.
-Tarefa 2: Fazer a introdução do relatório de Administração II.
-Tarefa 3: Finalizar a animação do átomo de hidrogênio em Java para LPII.
